@@ -1,4 +1,4 @@
-# Elixir and Phoenix Resources
+# Elixir/Phoenix Resources
 
 * Elixir
   * https://elixir-lang.org/getting-started/introduction.html
