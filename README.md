@@ -7,6 +7,7 @@
   * https://medium.com/geekculture/the-20-of-elixir-syntax-you-need-to-read-80-of-elixir-code-30d827eab939
 * Phoenix
   * https://sergiotapia.com/phoenix-160-liveview-esbuild-tailwind-jit-alpinejs-a-brief-tutorial 
+  * https://aswinmohan.me/pagewise-js-liveview
 * Ecto
   * Migrations
     *  https://dashbit.co/blog/automatic-and-manual-ecto-migrations
